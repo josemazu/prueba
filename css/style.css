@@ -1,0 +1,27 @@
+.container-fluid{
+	padding-left:0px !important;
+	padding-right:0px !important;
+}
+.navbar-brand {
+    margin-left: 15px;
+}
+#logo {
+    width:auto;
+	height:40px;
+	position:fixed;
+	top:6px;
+	right:0px;
+	z-index:99999 !important;
+	background:transparent;
+	padding-left:5px;
+	padding-right:5px;
+}
+
+#left{
+    height:100%;
+	position:fixed;
+	top:0px;
+}
+#right{
+    min-height:3000px;
+}
